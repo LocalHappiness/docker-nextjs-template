@@ -1,8 +1,11 @@
 # **Docker Production Template**
 
+![GitHub last commit](https://img.shields.io/github/last-commit/LocalHappiness/docker-nextjs-template?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LocalHappiness/docker-nextjs-template?style=for-the-badge)
+
 ## [Next.js](https://nextjs.org/), [Tailwindcss](https://tailwindcss.com/), & [Typescript](https://www.typescriptlang.org/)
 
-This template is for deploying to docker-hub. The Docker files are meant for production and npm for development
+This template is for deploying to docker-hub. The Docker files are meant for production and NPM for development
 
 ### Start server and go to [localhost:3000](http://localhost:3000)
 

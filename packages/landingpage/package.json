@@ -1,7 +1,7 @@
 {
-    "name": "joshuatech",
+    "name": "docker-nextjs-template",
     "version": "1.0.0",
-    "description": "My website",
+    "description": "Template for a production build of Next.js",
     "license": "MIT",
     "scripts": {
         "dev": "next",

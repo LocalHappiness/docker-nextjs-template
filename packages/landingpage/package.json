@@ -10,16 +10,13 @@
         "type-check": "tsc",
         "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
         "lint": "eslint .",
-        "lint:fix": "eslint --fix .",
-        "jest": "NODE_ENV=test jest --passWithNoTests --watch",
-        "jest:ci": "NODE_ENV=test jest --passWithNoTests"
+        "lint:fix": "eslint --fix ."
     },
     "dependencies": {
         "@mdx-js/loader": "^1.6.11",
         "@next/mdx": "^9.4.4",
         "dotenv": "^8.2.0",
         "isomorphic-unfetch": "3.0.0",
-        "jest": "^26.1.0",
         "next": "latest",
         "path": "^0.12.7",
         "postcss-import": "^12.0.1",

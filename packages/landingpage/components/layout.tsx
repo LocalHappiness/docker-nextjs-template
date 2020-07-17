@@ -8,7 +8,7 @@ function Layout (props) {
       <div>
         <Head>
           <link rel='icon' type='image/x-icon' href='favicon.ico' />
-          <title>Joshua Herman</title>
+          <title>My New Website</title>
         </Head>
         <Header />
         <main className='flex-1 w-full max-w-6xl p-1 mx-auto md:px-8 md:py-2'>

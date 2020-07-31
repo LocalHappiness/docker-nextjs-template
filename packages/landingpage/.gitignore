@@ -63,3 +63,6 @@ typings/
 .env.local
 # Nextjs
 .next
+
+#npm
+package-lock.json
